@@ -71,13 +71,11 @@ transform-style: preserve-3d;
 
 }
 .button{
-    position: absolute;
     bottom: 100px;
     display: flex;
     gap: 20px;
 }
 .button span{
-    position: relative;
     width: 50px;
     height: 50px;
     border-radius: 50%;
